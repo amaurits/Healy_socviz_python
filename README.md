@@ -5,5 +5,6 @@ Kieran Healy's excellent _Data Visualization_ (Princeton, 2019) serves, as its s
 
 These notebooks go chapter by chapter, and include all the code you should need to replicate in nearly identical form all the charts in Healy's book. There are some minor differences due to default layouts & themes, but these are insignificant overall. I have kept the editorializing to a minimum, focusing on just replicating the charts. Where the code is appreciably different, I have added comments to explain what is going on.
 
-If you find these useful, and/or have any corrections or suggestsions, I would love to hear from you. I can be reached at maurits@wm.edu.  
+If you find these useful, and/or have any corrections or suggestsions, I would love to hear from you.  
+I can be reached at maurits@wm.edu.  
 Enjoy!
